@@ -5,12 +5,11 @@
  */
 package t;
 
-/**
- *
- * @author Assis Andrade
- */
-public class T {
 
+public class T {
+//------------------------------------------------
+//    ****************************************    
+//------------------------------------------------
     /**
      * @param args the command line arguments
      */
