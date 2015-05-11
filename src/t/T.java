@@ -8,7 +8,7 @@ package t;
 
 public class T {
 //------------------------------------------------
-//    ****************************************    
+//****************************************    
 //------------------------------------------------
     /**
      * @param args the command line arguments
@@ -16,5 +16,5 @@ public class T {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-//    conexao
+    
 }
